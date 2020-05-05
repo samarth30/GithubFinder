@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# live demo
+you can check the live demo of this project at <a href="https://samarth-github-finder.netlify.app/">live demo</a>
+
 
 ## Available Scripts
 
